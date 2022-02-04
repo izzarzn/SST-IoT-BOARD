@@ -2,6 +2,9 @@
 
 ### Arduino IDE
    [Click Here](https://drive.google.com/drive/folders/1x9qoiOMDgKwajX3VDGFtvEBk1yoENJ2A?usp=sharing)
+   
+### Arduino IDE Installation Guide
+   [Click Here](https://github.com/SinkuKumar/Blynk_Firebase/blob/main/Installation_Setup.md)
 
 ### Libraries Riquired 
    [Click Here](https://github.com/izzarzn/SST_BOARD/blob/a003156b17b68087afed8b77382bad70e38e0ff2/Libraries)
