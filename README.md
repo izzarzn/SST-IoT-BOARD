@@ -14,3 +14,11 @@
  ### 3.Program for RGB LED Common Cathode
  
    [Source Code](https://github.com/izzarzn/SST_BOARD/blob/724f9ccb681b1e65f8e92ab98bf5563139ea2cd5/3_RGB_Led/3_RGB_Led.ino)
+   
+ ### 4.Program for Buzzer
+ 
+   [Source Code](https://github.com/izzarzn/SST_BOARD/blob/460465156fa78c09fc75c7449c94f258af0c6c13/4_Buzzer/4_Buzzer.ino)
+   
+ ### 5. Program for Toggle Switch
+   
+   [Source Code](https://github.com/izzarzn/SST_BOARD/blob/460465156fa78c09fc75c7449c94f258af0c6c13/5_Push_Buzzer/5_Push_Buzzer.ino)
