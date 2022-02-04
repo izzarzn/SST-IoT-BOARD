@@ -35,7 +35,7 @@
 ### Go to Search and Click On New Device
 ![Screenshot 2022-02-04 at 10 52 20 PM](https://user-images.githubusercontent.com/65058286/152577655-cd71e910-9f84-412d-a9e2-cfc75f1c90c1.png)
 
-### Click On from Template
+### Click On From Template
 ![Screenshot 2022-02-04 at 10 52 27 PM](https://user-images.githubusercontent.com/65058286/152577726-6b37bb97-20ae-4bcd-ae4f-a1495dada766.png)
 
 ### Select the Template for which you want to add Device and Click on Create
@@ -49,6 +49,22 @@
 
 ### Input your SSID and Password and Upload the code
 ![Screenshot 2022-02-04 at 11 22 05 PM](https://user-images.githubusercontent.com/65058286/152578679-bf046f55-2de7-4a7e-bcde-a8015dc73c46.png)
+
+### You Can Control Your LED from Dashboard
+![Screenshot 2022-02-04 at 11 51 07 PM](https://user-images.githubusercontent.com/65058286/152582327-133e253a-bc86-4f9c-bc2e-f3f97f150242.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
