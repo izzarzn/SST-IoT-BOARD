@@ -1,7 +1,7 @@
 # SST_BOARD
 
 ### Libraries Riquired 
-   [Click Here](https://github.com/izzarzn/SST_BOARD/blob/a003156b17b68087afed8b77382bad70e38e0ff2/Libraries/Adafruit_Sensor-master.zip)
+   [Click Here](https://github.com/izzarzn/SST_BOARD/blob/a003156b17b68087afed8b77382bad70e38e0ff2/Libraries)
 
  ### 1. Program to Print Hello World
  
