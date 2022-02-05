@@ -11,13 +11,16 @@
 ### Steps to create real time database
 ![realtime-1](https://user-images.githubusercontent.com/65058286/152632218-e86ef1b9-a507-47d6-a625-b074a62e8176.png)
 
+### Click on Next 
 ![realtime-2](https://user-images.githubusercontent.com/65058286/152632229-c7ea592a-fd43-404a-89af-b6f10b4b85b5.png)
 
+### Select Start in test Mode and Click On Enable
 ![realtime-3](https://user-images.githubusercontent.com/65058286/152632237-f1d1886b-d1f6-4964-b963-5bb9ccbfcc40.png)
 
 ### Adding values to firebase database  
 ![realtime-4](https://user-images.githubusercontent.com/65058286/152632248-57b29a55-50a9-4333-b16e-0b8dfc8a43ad.png)
 
+### Example
 ![realtime-5](https://user-images.githubusercontent.com/65058286/152632251-b4d7b7f0-121b-41cf-87b1-5dcd5095df01.png)
 
 ### Requirement for hardware 
@@ -25,10 +28,8 @@
 #### Get DATABASE URL:  
 ![realtime-6](https://user-images.githubusercontent.com/65058286/152632270-f4a9d7b0-780d-4ebf-9df2-e6737485e180.png)
 
-### Click on Next 
 ![realtime-7](https://user-images.githubusercontent.com/65058286/152632283-0f23b950-9d50-448d-b492-a3dfa95460d5.png)
 
-### Select Start in test Mode and Click On Enable
 ![realtime-8](https://user-images.githubusercontent.com/65058286/152632288-a2d98a60-6cfd-4adf-bbfc-dae5b9d3b762.png)
 
 ![realtime-9](https://user-images.githubusercontent.com/65058286/152632290-07701616-d865-40a6-bce4-4a9140faac38.png)
