@@ -54,6 +54,8 @@
   
    [Source Code](https://github.com/izzarzn/SST_BOARD/blob/830466bab3582897b46926ee1862ec282315c0e9/10_DHT11_Serial/10_DHT11_Serial.ino)
    
+  ### 10. Program for DHT11 Sensor using Firebase 
    
+   [Source Code](https://github.com/izzarzn/SST_BOARD/blob/b96177db5f091b65407f46d578ecc19b27767440/11_Firebase_DHT/11_Firebase_DHT.ino)   
    
   
