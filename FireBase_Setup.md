@@ -17,7 +17,7 @@
 ### Select Start in test Mode and Click On Enable
 ![realtime-3](https://user-images.githubusercontent.com/65058286/152632237-f1d1886b-d1f6-4964-b963-5bb9ccbfcc40.png)
 
-### Adding values to firebase database  
+### Adding Demo values to firebase database  
 ![realtime-4](https://user-images.githubusercontent.com/65058286/152632248-57b29a55-50a9-4333-b16e-0b8dfc8a43ad.png)
 
 ### Adding Data Example
@@ -50,12 +50,12 @@
 ![realtime-13](https://user-images.githubusercontent.com/65058286/152632305-69d3744e-81bf-4e92-b6e6-a7bc06c72574.png)
 
 
-## Required Data for Hardware Setup
+## Required Data for Hardware Setup:
 
-### Database URL
-### API KEY
-### User Email
-### User Password
+### -Database URL
+### -API KEY
+### -User Email
+### -User Password
 
 
 
