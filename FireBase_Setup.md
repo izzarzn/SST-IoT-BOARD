@@ -50,7 +50,12 @@
 ![realtime-13](https://user-images.githubusercontent.com/65058286/152632305-69d3744e-81bf-4e92-b6e6-a7bc06c72574.png)
 
 
+## Required Data for Hardware Setup
 
+### Database URL
+### API KEY
+### User Email
+### User Password
 
 
 
