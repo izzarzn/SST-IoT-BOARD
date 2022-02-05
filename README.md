@@ -50,6 +50,10 @@
    
    [Source Code](https://github.com/izzarzn/SST_BOARD/blob/3af6c20876fb74846749a32d4d686628d07298c0/9_Blynk_DHT/Blynk_DHT.ino)
    
+  ### 10. Program for DHT11 Sensor using Serial Monitor
+  
+   [Source Code](https://github.com/izzarzn/SST_BOARD/blob/830466bab3582897b46926ee1862ec282315c0e9/10_DHT11_Serial/10_DHT11_Serial.ino)
+   
    
    
   
