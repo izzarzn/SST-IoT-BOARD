@@ -52,10 +52,10 @@
 
 ## Required Data for Hardware Setup:
 
-### -Database URL
-### -API KEY
-### -User Email
-### -User Password
+### - Database URL
+### - API KEY
+### - User Email
+### - User Password
 
 
 
