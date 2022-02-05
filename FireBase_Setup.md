@@ -25,8 +25,10 @@
 #### Get DATABASE URL:  
 ![realtime-6](https://user-images.githubusercontent.com/65058286/152632270-f4a9d7b0-780d-4ebf-9df2-e6737485e180.png)
 
+### Click on Next 
 ![realtime-7](https://user-images.githubusercontent.com/65058286/152632283-0f23b950-9d50-448d-b492-a3dfa95460d5.png)
 
+### Select Start in test Mode and Click On Enable
 ![realtime-8](https://user-images.githubusercontent.com/65058286/152632288-a2d98a60-6cfd-4adf-bbfc-dae5b9d3b762.png)
 
 ![realtime-9](https://user-images.githubusercontent.com/65058286/152632290-07701616-d865-40a6-bce4-4a9140faac38.png)
