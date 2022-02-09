@@ -55,7 +55,7 @@
    [Source Code](https://github.com/izzarzn/SST_BOARD/blob/830466bab3582897b46926ee1862ec282315c0e9/10_DHT11_Serial/10_DHT11_Serial.ino)    
    
   ### 11. Program for DHT11 and LED Using Firebase
-   [Click Here For Setup Guide](https://github.com/izzarzn/SST_BOARD/blob/1a438af892ef2facbef7a32c319934f56ba9ab28/FireBase_Setup.md)
+   [Click Here For Setup Guide](https://github.com/izzarzn/SST_BOARD/blob/59ee73c11d77d911af6c067a5c1955a51863bef5/FireBase_Setup.md)
   
    [Source Code](https://github.com/izzarzn/SST_BOARD/blob/970cccfd56001ecd333036a508a32eeeb1d824d7/12_Firebase_DHT/11_Firebase_DHT.ino)
    
