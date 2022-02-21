@@ -1,4 +1,4 @@
-# SST_BOARD
+# SST-IoT-Board
 
 ### Arduino IDE
    [Click Here](https://drive.google.com/drive/folders/1x9qoiOMDgKwajX3VDGFtvEBk1yoENJ2A?usp=sharing)
