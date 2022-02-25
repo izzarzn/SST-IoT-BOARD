@@ -16,7 +16,7 @@
    ------
 
 ### Libraries Riquired 
-   [Click Here](https://github.com/izzarzn/SST_BOARD/blob/a003156b17b68087afed8b77382bad70e38e0ff2/Libraries)
+   [Click Here](https://github.com/izzarzn/SST-IoT-BOARD/blob/1ba142a31e7c2b7cc071d5fc2c4c420af8580b31/Libraries)
    
    -------
 
