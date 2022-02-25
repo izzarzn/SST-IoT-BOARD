@@ -6,7 +6,7 @@
    -----
    
 ### Arduino IDE Installation Guide
-   [Click Here](https://github.com/SinkuKumar/Blynk_Firebase/blob/main/Installation_Setup.md)
+   [Click Here](https://github.com/izzarzn/SST-IoT-BOARD/blob/617990cafeb0b44f6291330711279cd0de83a247/Arduino_Installation.md)
    
    ------
   
