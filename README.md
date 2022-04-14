@@ -19,6 +19,21 @@
    [Click Here](Libraries)
    
    -------
+   ## SST IoT Board Pin Description
+
+| **Components** | **GPIO PIN DESCRIPTION ** |
+|:----:|:----:|
+| ON Board LED | 2, 16 |
+| LDR | A0 |
+| LCD | SCL - 5, SDA - 4 |
+| OLED | 4, 5 |
+|DC Motor | Motor 1- 16, 5 Motor 2- 4,2|
+|Ultra Sonic Sensor | Trigger-12, Echo-14 |
+|Bluetooth| RX-14, TX-12 |
+|DHT 11| 2 |
+| RELAY | 13 |
+
+--------------------
 
  ### 1. Program to Print Hello World
  
