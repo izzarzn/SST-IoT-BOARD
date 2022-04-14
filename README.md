@@ -21,7 +21,7 @@
    -------
    ## SST IoT Board Pin Description
 
-| **Components** | **GPIO PIN DESCRIPTION ** |
+| **Components** | **GPIO PIN DESCRIPTION** |
 |:----:|:----:|
 | ON Board LED | 2, 16 |
 | LDR | A0 |
@@ -116,7 +116,7 @@
    
    ----------
    <h3 align = "center">Don't forget to ⭐ this repo<h3>
-  --------------- 
+  ---------
    
    
    
