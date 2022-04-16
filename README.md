@@ -115,7 +115,7 @@
    [Source Code](13_Firebase_User2/firebase_chat_user_2.ino)
    
    ----------
-   <h3 align = "center">Don't forget to ⭐ this repo<h3>
+   <h3 align = "center">Don't forget to ⭐ this Repo<h3>
    
    
    
