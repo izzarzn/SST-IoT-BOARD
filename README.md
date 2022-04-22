@@ -18,7 +18,7 @@
 ### Libraries Riquired 
    [Click Here](Libraries)
    
-   -------
+   --------
    ## SST IoT Board Pin Description
 
 | **Components** | **GPIO PIN DESCRIPTION** |
