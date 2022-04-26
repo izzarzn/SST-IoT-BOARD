@@ -118,6 +118,8 @@
    
  ### 14. Firebase IoT MIT App
  
+   [Click Here For Setup Guide](FireBase_Setup.md) 
+   
    [Source Code](14_Firebase_IoT_MIT_App/firebase.ino) 
    
    ---------------
