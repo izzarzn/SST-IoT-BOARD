@@ -1,5 +1,5 @@
 ## MIT App Inventor Setup Guide 
-### [Click Here](http://ai2.appinventor.mit.edu/) to visit MIT App Inventor Website.
+### [Click Here](https://appinventor.mit.edu/) to visit MIT App Inventor Website.
 
 ![Screenshot 2022-04-26 at 12 57 53 AM](https://user-images.githubusercontent.com/65058286/165335488-dd879fe2-53b7-475c-9d04-8f555e0496ea.png)
 ![Screenshot 2022-04-26 at 12 58 06 AM](https://user-images.githubusercontent.com/65058286/165335477-81a6cf29-6595-4d46-af5d-4979023307ad.png)
