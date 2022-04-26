@@ -118,7 +118,7 @@
    
  ### 14. Firebase IoT MIT App
  
-   [Source Code](https://github.com/izzarzn/SST-IoT-BOARD/blob/bbc4c25cfa0cd4f322199b24a474076cbf0e3cda/Firebase%20IoT%20MIT%20App/firebase.ino) 
+   [Source Code](14_Firebase_IoT_MIT_App/firebase.ino) 
    
    ---------------
    <h3 align = "center">Don't forget to ⭐ this Repo<h3>
