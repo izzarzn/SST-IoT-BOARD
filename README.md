@@ -123,6 +123,15 @@
    [Source Code](14_Firebase_IoT_MIT_App/firebase.ino) 
    
    ---------------
+   
+   |**External Drivers**| **Links** |
+|:-------:|:-------: |
+|CP210x Driver | [Click Here](CP210x_Windows_Drivers.zip)|
+|CH340 Driver (Windows) | [Click Here](CH341SER.zip)|
+|CH340 Driver (Mac) | [Click Here](CH341SER-MAC.zip)|
+
+----------------
+   
    <h3 align = "center">Don't forget to ⭐ this Repo <h3>
    
    
