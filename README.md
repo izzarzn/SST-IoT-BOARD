@@ -11,7 +11,7 @@
    ------
   
 ### Blynk Account Setup Guide
-   [Click Here]()
+   [Click Here](Blynk_Setup.md)
    
    -------
 
