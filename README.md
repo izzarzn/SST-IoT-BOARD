@@ -123,6 +123,11 @@
    [Source Code](14_Firebase_IoT_MIT_App/firebase.ino) 
    
    ---------------
+   ### 15. Smart Drip Irrigation
+ 
+   [Source Code](https://github.com/SKsaikiran/SST-IoT-BOARD/blob/41dc5c527b7ff7722486cbed00f80a3fbdab004d/15_Smart_Drip_irrigation/15_Smart_Drip_irrigation.ino)
+   
+   -----------
    
    |**External Drivers**| **Links** |
 |:-------:|:-------: |
