@@ -128,6 +128,12 @@
    [Source Code](https://github.com/SKsaikiran/SST-IoT-BOARD/blob/41dc5c527b7ff7722486cbed00f80a3fbdab004d/15_Smart_Drip_irrigation/15_Smart_Drip_irrigation.ino)
    
    -----------
+   ### 16.Smart Irrigation
+ 
+   [Source Code](https://github.com/SKsaikiran/SST-IoT-BOARD/blob/b0af84bc1d0a53235aca6bba04eb6f49547f5e62/16_Smart_Irrigation/16_Smart_Irrigation.ino)
+   
+   -----------
+   
    
    |**External Drivers**| **Links** |
 |:-------:|:-------: |
@@ -139,14 +145,3 @@
    
    <h3 align = "center">Don't forget to ⭐ this Repo <h3>
    
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-  
