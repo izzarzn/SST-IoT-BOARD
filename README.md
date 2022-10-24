@@ -64,21 +64,24 @@
    
    [Source Code](5_Push_Buzzer/5_Push_Buzzer.ino)
    
-    [Procedure](https://github.com/izzarzn/RVCE-Manual/blob/37e183f1b3ca749f93e21dc971b0513503ead100/1.md)
+   [Procedure](https://github.com/izzarzn/RVCE-Manual/blob/37e183f1b3ca749f93e21dc971b0513503ead100/1.md)
+   
    ------
 
 ### 6. Program for LDR Interface
   
    [Source Code](6_LDR_LED/6_LDR_LED.ino)
    
-    [Procedure](https://github.com/izzarzn/RVCE-Manual/blob/37e183f1b3ca749f93e21dc971b0513503ead100/2.md)
+   [Procedure](https://github.com/izzarzn/RVCE-Manual/blob/37e183f1b3ca749f93e21dc971b0513503ead100/2.md)
+   
    -------
    
 ### 7.Program for Bluetooth Interface
 
    [Source Code](7_Bluetooth/7_Bluetooth.ino) 
    
-    [Procedure](https://github.com/izzarzn/RVCE-Manual/blob/37e183f1b3ca749f93e21dc971b0513503ead100/7.md)
+   [Procedure](https://github.com/izzarzn/RVCE-Manual/blob/37e183f1b3ca749f93e21dc971b0513503ead100/7.md)
+   
    ------
    
 ### 8.Program for LED using Blynk Server
@@ -93,7 +96,8 @@
    
    [Source Code](9_Blynk_DHT/Blynk_DHT.ino)
    
-    [Procedure](https://github.com/izzarzn/RVCE-Manual/blob/37e183f1b3ca749f93e21dc971b0513503ead100/9.md)
+   [Procedure](https://github.com/izzarzn/RVCE-Manual/blob/37e183f1b3ca749f93e21dc971b0513503ead100/9.md)
+   
    ------
    
   ### 10. Program for DHT11 Sensor using Serial Monitor
