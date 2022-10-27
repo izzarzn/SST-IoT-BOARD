@@ -148,6 +148,29 @@
    
    -----------
    
+   ### 17. Program to interface I2C LCD
+    [Source Code](https://github.com/izzarzn/RVCE-Manual/blob/3781764f5d55111b18df9ce8dc5e8f6276ddd58c/3_LCD/3_LCD.ino)
+    Libraries Required : [LiquidCrystal I2C](https://drive.google.com/file/d/1HvLhhUfPdMpollQjFgATW0Y9pEnIQhQr/view?usp=sharing)
+    [Procedure](https://github.com/izzarzn/RVCE-Manual/blob/37e183f1b3ca749f93e21dc971b0513503ead100/3.md)
+   
+  -----------
+   
+  ### 18. Program to interface DC Motors
+ [Source Code] https://github.com/izzarzn/RVCE-Manual/blob/3781764f5d55111b18df9ce8dc5e8f6276ddd58c/5_DC_MOTOR/5_DC_MOTOR.ino)
+ [Procedure](https://github.com/izzarzn/RVCE-Manual/blob/37e183f1b3ca749f93e21dc971b0513503ead100/5.md)
+  ------------
+  
+ ### 19. Program to interface OLED 
+ [Source Code]https://github.com/izzarzn/RVCE-Manual/blob/3781764f5d55111b18df9ce8dc5e8f6276ddd58c/4_OLED/4_OLED.ino)
+ Libraries Required : [U8g2]()
+[Procedure](https://github.com/izzarzn/RVCE-Manual/blob/37e183f1b3ca749f93e21dc971b0513503ead100/4.md)
+ --------------
+ 
+ ### 20.Ultrasonic Sensor
+ [Source Code](https://github.com/izzarzn/RVCE-Manual/blob/3781764f5d55111b18df9ce8dc5e8f6276ddd58c/6_ULTRASONIC/6_ULTRASONIC.ino)
+ Libraries Required : [New Ping](https://drive.google.com/file/d/1eh5Y6EqwtD2sXDX7yacBk1t8MQLcMzoj/view?usp=sharing)
+[Procedure](https://github.com/izzarzn/RVCE-Manual/blob/37e183f1b3ca749f93e21dc971b0513503ead100/6.md)
+ --------------  
    
    |**External Drivers**| **Links** |
 |:-------:|:-------: |
