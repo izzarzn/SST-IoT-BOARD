@@ -33,7 +33,7 @@
 | LCD | SCL - 5, SDA - 4 |
 | OLED | 4, 5 |
 |DC Motor | Motor 1- 16, 5 Motor 2- 4,2|
-|Servo Motor | Motor 1- 4, 5 Motor 2- 5|
+|Servo Motor | S1 - 5, S2 - 4 |
 |Ultra Sonic Sensor | Trigger-12, Echo-14 |
 |Bluetooth| RX-14, TX-12 |
 |DHT 11| 2 |
