@@ -176,7 +176,7 @@
 
  --------------
  
- ### 20.Ultrasonic Sensor
+ ### 20. Ultrasonic Sensor
  
  [Source Code](https://github.com/izzarzn/RVCE-Manual/blob/3781764f5d55111b18df9ce8dc5e8f6276ddd58c/6_ULTRASONIC/6_ULTRASONIC.ino)
  
